@@ -16,14 +16,13 @@ a little script for speech recognition with python.
 sudo apt install git
 git clone https://github.com/ali-moments/speech-recognition.git
 cd speech-recognition
-sudo chmod +x install.sh
-sudo ./install.sh
+pip install -r requirements.txt
 ```
 
 ## Usage
-just run it with python3
+just run it with python
 ```bash
-python3 speech-recognition.py
+python speech-recognition.py
 ```
 
 ## ScreenShot
@@ -32,7 +31,7 @@ python3 speech-recognition.py
 ## Credits
 Ali-AAA
 [![Telegram](https://img.shields.io/static/v1.svg?label=Telegram&message=@happy_c0d3r&color=grey&logo=telegram&labelColor=0088ff&style=social)](https://t.me/happy_c0d3r)
-[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali_aaa_3351/)
+[![Instagram](https://img.shields.io/badge/Instagram-follow-0088ff.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ali.momento/)
 
 ## License
 ![License](https://img.shields.io/github/license/ali-moments/speech-recognition)
